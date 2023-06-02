@@ -1,0 +1,15 @@
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\bin\Debug\net6.0\examp001.exe
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\bin\Debug\net6.0\examp001.deps.json
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\bin\Debug\net6.0\examp001.runtimeconfig.json
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\bin\Debug\net6.0\examp001.dll
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\bin\Debug\net6.0\examp001.pdb
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\obj\Debug\net6.0\examp001.csproj.AssemblyReference.cache
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\obj\Debug\net6.0\examp001.GeneratedMSBuildEditorConfig.editorconfig
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\obj\Debug\net6.0\examp001.AssemblyInfoInputs.cache
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\obj\Debug\net6.0\examp001.AssemblyInfo.cs
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\obj\Debug\net6.0\examp001.csproj.CoreCompileInputs.cache
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\obj\Debug\net6.0\examp001.dll
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\obj\Debug\net6.0\refint\examp001.dll
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\obj\Debug\net6.0\examp001.pdb
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\obj\Debug\net6.0\examp001.genruntimeconfig.cache
+C:\ucheba\newproject\exampl001_HelloConsole\examp001\obj\Debug\net6.0\ref\examp001.dll
